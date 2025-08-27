@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on shipping together
 - 📫 How to reach me ....... great question....
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'll be making 52 apps in 52 weeks starting 05/10/2025. Aim for the moon and launch. 
+- ⚡ Fun fact: Building is life.
 
 <!---
 caldavidlee/caldavidlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
