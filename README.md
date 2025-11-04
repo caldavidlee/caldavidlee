@@ -5,6 +5,7 @@
 - 📫 How to reach me ....... great question....
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is Creating and Creating is Fun.
+- 11/04/2025 - Currently learning Flask paired with ngrok. Some of my friends use it everyday. They say it's great. I aspire to be there.
 
 <!---
 caldavidlee/caldavidlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
