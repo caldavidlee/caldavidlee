@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Lee
-- 👀 I’m interested in building... fast towards MVP, launching, seeing if theres product market fit -> if so, re-iterate; if not, kill it.
-- 🌱 I’m currently learning how to code, applying as I go along, and shipping.
+- 👀 I’m interested in building niche products that nobody else will build; not because it's not important but because the demand is so small... -> One of One. -> This is Phase 1 of making my mark on society. 
+- 🌱 I’m currently diving deep into Scalable infrastructures, Front-end Design, and Stateful AI Agents
 - 💞️ I’m looking to apply the things I learn.
 - 📫 How to reach me ....... great question....
 - 😄 Pronouns: He/Him
