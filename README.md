@@ -7,6 +7,8 @@
 - ⚡ Fun fact: Coding is Creating and Creating is Fun.
 - 11/04/2025 - Currently learning Flask paired with ngrok. Some of my friends use it everyday. They say it's great. I aspire to be there.
 - 11/23/2025 - Built a blog powered by Ghost run on DigitalOcean Droplets and Docker. (took me 3 hours to debug and get it up and running)
+- 12/01/2025 - Got my first Project Prototype working.
+- 
 <!---
 caldavidlee/caldavidlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
