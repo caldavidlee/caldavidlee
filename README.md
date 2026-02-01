@@ -10,7 +10,7 @@
 - 12/01/2025 - Got my first Project Prototype working.
 - 01/04/2026 - Realizing the value of OSS; and that I could have sped up my development time had I known and understood this
 - 01/08/2026 - Shipping and Publishing my first OSS (MergeMultiplePDFs) -> First of many shippings to come.
-- 
+- 01/30/2026 - Experimenting with Prediction Markets and "Quant" models. 
 <!---
 caldavidlee/caldavidlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
