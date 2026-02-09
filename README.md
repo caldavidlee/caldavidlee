@@ -1,3 +1,5 @@
+[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
+
 - 👋 Hi, I’m David Lee
 - 👀 I’m interested in building niche products that nobody else will build; not because it's not important but because the demand is so small, but just because it's small doesn't mean it's insignificant to the people that need it. ... -> One of One. -> This is Phase 1 of making my mark on society. 
 - 🌱 I’m currently diving deep into Scalable infrastructures, Front-end Design, and Stateful AI Agents
